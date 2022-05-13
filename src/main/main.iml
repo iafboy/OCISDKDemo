@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.6.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.6.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:5.3.18" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.18" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.18" level="project" />
+    <orderEntry type="library" name="Maven: com.oracle.oci.sdk:oci-java-sdk-secrets:2.23.0" level="project" />
+    <orderEntry type="library" name="Maven: com.oracle.oci.sdk:oci-java-sdk-common:2.23.0" level="project" />
+    <orderEntry type="library" name="Maven: com.oracle.oci.sdk:oci-java-sdk-objectstorage-generated:2.25.0" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../libs/oci-java-sdk-full-shaded-2.27.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

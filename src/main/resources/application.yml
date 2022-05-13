@@ -1,0 +1,12 @@
+server:
+  port: 8888
+demo:
+  region: me-dubai-1
+  tenancyId: ocid1.tenancy.oc1..aaaaaaaavnk4luuiasjkuhiizwnwust2xx3td7b4cbj5vhiccb47hra26p4q
+  userId: ocid1.user.oc1..aaaaaaaafawx54qczcs5w6dtpfzjlcbewrczky3vixnds5tcsd5vlvfl3via
+  fingerprint: 36:7e:fa:9a:4f:a8:d7:0f:37:8f:e2:80:42:3f:db:7b
+#  keypath: /Users/juxiaobing/Documents/work/OCIDemo/oci_api_key.pem
+  keypath: /home/opc/.oci/oci_api_key.pem
+  vaultId: ocid1.vault.oc1.me-dubai-1.ejrhzhs5aafgg.abshqljruky7wlpoyam6l5wcb4dobfcpxilb6caxxginqd5mni3qfaopwnra
+  masterKeyId: ocid1.key.oc1.me-dubai-1.ejrhzhs5aafgg.abshqljreflj2ada4inxwc25mfwhoxhgwao45kpbkznckcb6agu77cthsfcq
+  compartmentId: ocid1.compartment.oc1..aaaaaaaacmdop4fwrdak5aunv6aeex3trwbujhk4jdqegna4lo7ittea5wdq
